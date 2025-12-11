@@ -1,0 +1,5 @@
+{
+  "name": "AlumniTrack AI",
+  "description": "A Tracer Study dashboard for universities. It manages alumni data, visualizes employment statistics, and uses Gemini AI to generate curriculum insights and reports.",
+  "requestFramePermissions": []
+}
